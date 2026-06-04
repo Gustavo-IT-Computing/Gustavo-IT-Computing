@@ -40,4 +40,4 @@ Python • Flask • PHP • MySQL • Kotlin • Android Studio • Unity • C
 
 LinkedIn: https://www.linkedin.com/in/gustavo-andrade-carvalho-b9261916a/
 
-Email: gustavoandcarvalho22@gmail.com
+Email: gustavoandcarvalho@hotmail.com
